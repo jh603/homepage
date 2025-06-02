@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "RAG-RL: Advancing Retrieval-Augmented Generation via RL and Curriculum Learning"
+date:   2025-06-01 22:21:59 +00:00
+image: /tn/images/rag-rl.png
+categories: research
+author: "Jerry Huang"
+authors: "<strong>Jerry Huang</strong>, Siddarth Madala, Risham Sidhu, Cheng Niu, Hao Peng, Julia Hockenmaier, Tong Zhang"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2503.12759
+# code: https://github.com/leonidk/fmb-plus
+# website: https://leonidk.github.io/fmb-plus
+---
+We introduce RAG-RL, an answer generation model trained to identify and reason over larger sets of retrieved information using reinforcement learning and curriculum learning.
